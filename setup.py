@@ -4,7 +4,7 @@ setup(
     name='github_data_extractor_OzB',
     version='0.1',
     packages=find_packages(),
-    description='github data extractor that reveals some insights about an github repository',
+    description='github data extractor that reveals some insights about a github repository',
     author='OzB',
     url='https://github.com/OzBlumenfeld/GitHub-repo-insights',
     classifiers=[
