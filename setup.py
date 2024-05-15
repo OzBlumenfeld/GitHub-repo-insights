@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='github_data_extractor_OzB',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     description='github data extractor that reveals some insights about a github repository',
     author='OzB',

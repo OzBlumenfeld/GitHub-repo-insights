@@ -1,8 +1,12 @@
 # Github repository insights extractor
 
 The purpose of this tool is to extract valuable information of any GitHub repository, although the assignment was focused on a specific repo: CTFd/CTFd.
-Building the graph runtime is a bit high because I pulled all the commits from master and the branch that I build the graph on.
+
+## Things I would improve but didn't due to time constraints
+1. Building the graph runtime is a bit high because I pulled all the commits from master and the branch that I build the graph on.
 It can be optimized but didn't have enough the time to do so under the time constraints for this assignment.
+2. I would add error handling for various cases of unexpected behavior in code
+3. I would add tests to cover core functionality, I did try to run it on multiple inputs but I know it's not enough
 
 ## Prerequisites
 
